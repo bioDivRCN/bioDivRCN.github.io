@@ -1,10 +1,10 @@
 # Site settings
-title: messDiv | Massive Eco-evolutionary Synthesis Simulation at sDiv
-description: "A collabotative project through sDiv"
-url: "https://messDiv.github.io/"
+title: bioDivRCN | Biodiversity Research Coordination Network
+description: "A collabotative project about documenting, curating and prediction biodiversity"
+url: "https://bioDivRCN.github.io/"
 author:
-  name: "sDiv working group"
-  email: "lukeh@uidaho.edu"
+  name: "bioDivRCN"
+  email: "ajrominger@gmail.com"
 
 # Build settings
 baseurl:  # Change this to your relative path (ex: /blog/), or leave just a /

@@ -4,7 +4,7 @@ description: This page describes the whole project.
 ---
 
 ![cat]({{ site.baseurl }}/img/cat.png)
-A working group at the [German Centre for Integrative Biodiversity Research](https://www.idiv.de/sdiv.html)
+The Biodiversity Research Coordination Network
 
 ## Recent Posts
 
