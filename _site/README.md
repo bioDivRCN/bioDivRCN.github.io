@@ -1,2 +1,1 @@
-# continuousity.github.io
-website for continuousity project
+website for Biodiversity RCN organization
