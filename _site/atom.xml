@@ -4,7 +4,7 @@
  <title>bioDivRCN | Biodiversity Research Coordination Network</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2018-06-14T16:22:43-05:00</updated>
+ <updated>2018-06-14T16:54:55-05:00</updated>
  <author>
    <name>bioDivRCN</name>
    <uri></uri>
@@ -14,21 +14,11 @@
  
 
  <entry>
-   <title>Typography Example | Monochrome</title>
-   <link href="http://localhost:4000/typography-example"/>
-   <id>http://localhost:4000/typography-example</id>
-   <updated>2017-02-14T00:00:00-06:00</updated>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/monochrome/img/img-test.png&quot; alt=&quot;Test&quot; title=&quot;Test&quot; /&gt; Lorem ipsum dolor sit amet, &lt;a href=&quot;http://www.example.com&quot;&gt;consectetur adipisicing&lt;/a&gt; elit. Id, aliquam magni et officiis nemo nihil aliquid placeat alias. Eum voluptates ducimus, nobis ex illum laboriosam quidem corrupti impedit ratione in voluptatum amet beatae facilis temporibus voluptate praesentium voluptatibus! At ab, iusto error amet eveniet...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Code Example</title>
-   <link href="http://localhost:4000/code-example"/>
-   <id>http://localhost:4000/code-example</id>
-   <updated>2017-02-12T00:00:00-06:00</updated>
-   <content type="html">&lt;p&gt;To insert highlight code inside of a post, it’s enough to use some specific tags, has directly described into the &lt;a href=&quot;http://jekyllrb.com/docs/templates/#code-snippet-highlighting&quot;&gt;Jekyll documentation&lt;/a&gt;. In this way the code will be included into a &lt;code class=&quot;highlighter-rouge&quot;&gt;.highlight&lt;/code&gt; CSS class and will be highlight according to the &lt;a href=&quot;https://github.com/mojombo/tpw/blob/master/css/syntax.css&quot;&gt;syntax.scss&lt;/a&gt; file. This is the...</content>
+   <title>Feedbacks across timescales</title>
+   <link href="http://localhost:4000/evolutionary-history-and-ecosystem-function"/>
+   <id>http://localhost:4000/evolutionary-history-and-ecosystem-function</id>
+   <updated>2018-06-14T00:00:00-05:00</updated>
+   <content type="html">&lt;h2 id=&quot;historical-contingencies-and-evolutionary-constraints-on-ecosystem-properties&quot;&gt;Historical contingencies and evolutionary constraints on ecosystem properties&lt;/h2&gt; &lt;p&gt;For remotely sensed ecosystem function (in a snapshot or through time across, e.g., drought events) are annomolies in correlative relationships between function and abiotic environment explained by historical contingency and/or evolutionary drivers?&lt;/p&gt; &lt;p&gt;Workflow:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;document ecosystem function&lt;/li&gt; &lt;li&gt;look at historical biogeography...</content>
  </entry>
 
  
