@@ -9,4 +9,4 @@ title: Working group directory
 
 ## Detecting and monitoring biodiversity
 
-## 
+## Integrating data across levels of biological organization 
